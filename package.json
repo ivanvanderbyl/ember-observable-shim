@@ -1,0 +1,28 @@
+{
+  "name": "ember-observable-shim",
+  "version": "1.0.0",
+  "description": "Shim for using ES2016 Observable in your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanvanderbyl/ember-observable-shim.git"
+  },
+  "keywords": [
+    "ember-addon",
+    "shim",
+    "es-observables",
+    "es2016"
+  ],
+  "author": "Ivan Vanderbyl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanvanderbyl/ember-observable-shim/issues"
+  },
+  "homepage": "https://github.com/ivanvanderbyl/ember-observable-shim",
+  "dependencies": {
+    "zen-observable": "^0.1.6"
+  }
+}
